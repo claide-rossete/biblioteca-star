@@ -1,4 +1,11 @@
+:root{
+    --cor-de-fundo:#EBECEE;
+
+}
+
+
+
 body{
-    background-color: blueviolet;
-    color: aqua;
+    background-color: --cor-de-fundo
+    color: rgb(33, 36, 36);
 }
